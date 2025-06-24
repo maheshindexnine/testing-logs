@@ -2,3 +2,5 @@ This is first text for logs
 this is second line
 this is forth line
 this is fifth commit from local git
+this is sixth commit from local git branch
+this is new day first commit
